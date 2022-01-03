@@ -1,0 +1,16 @@
+.button {
+    @extend %font-prim;
+    padding: 11px 25px 13px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.6rem;
+    line-height: 2.2rem;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all .3s;
+    &_colored {
+        background: $color-main;
+        color: $color-light;
+        border: 1px solid $color-main;
+    }
+}
