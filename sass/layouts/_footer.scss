@@ -1,0 +1,25 @@
+.svg {
+    width: 120px;
+    height: 80px;
+}
+
+.footer__wrapper {
+    display: inline-flexbox;
+}
+
+.footer {
+    background: $color-main;
+    padding: 10px;
+}
+ .footer-year {
+   font-size: 2.6rem;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+ }
+
+ .github {
+    display: flex;
+    align-items: right;
+    justify-content: right;
+ }
