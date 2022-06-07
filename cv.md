@@ -12,14 +12,15 @@ I worked as an internet marketer for the last 5 years. I decided to change profe
     + Interesting work in an IT-company
     + Participation in complex projects
     + Making world better through professional skills and job
-    + To get a well-paid job without reference to the Belarusian ruble 
+    + To get a well-paid job 
 * **My strengths**
-    + Responsebility
+    + Responsibility
     + Purposefulness
     + Quick learner and keep learning
 
 # Skills
 * Sublime text
+* VScode, CSS, HTML Stage O RS School
 
 # Code Example
 ```
