@@ -8,6 +8,7 @@
     list-style: none;
     padding: 0px 10px;
     cursor: pointer;
+    text-decoration: none;
     @extend %transition;
     &:hover {
         color: $color-main;
