@@ -19,7 +19,3 @@ h2 {
 h3 {
   @include font($size: 2.4rem, $height: 3.4rem);
 }
-
-a {
-  text-decoration: none;
-}
