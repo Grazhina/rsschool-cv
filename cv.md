@@ -7,7 +7,7 @@
 * LinkedIn 🖊️ : [Grazhina Podgaiskaya](https://www.linkedin.com/in/grazhina-podgaiskaya/) 
 
 # About me
-I worked as an internet marketer for the last 5 years. I decided to change profession to get to the sphere of IT technologies, because it is future 👍.
+I have been working as an internet marketer for the last 5 years. I decided to change profession to get to the sphere of IT technologies, because it is future 👍.
 * **My goals**
     + Interesting work in an IT-company
     + Participation in complex projects
@@ -33,4 +33,4 @@ return a * b
 Stage 0 is the first step to the front-end developement and learning javascript
 
 # English 
-Intermediate (B1)
+Intermediate (B2)
