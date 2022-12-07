@@ -20,6 +20,7 @@ I have been working as an internet marketer for the last 5 years. I decided to c
 
 # Skills
 * Sublime text
+* JavaScript - online course JavaScript for beginners [11 hours] by Bogdan Stashchuk
 * VScode, CSS, HTML Stage O RS School
 
 # Code Example
