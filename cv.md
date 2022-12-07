@@ -25,8 +25,11 @@ I have been working as an internet marketer for the last 5 years. I decided to c
 
 # Code Example
 ```
-function multiply(a, b){
-return a * b
+function myFn(a, b){
+let c
+a = a + 1
+c = a + b
+return c
 }
 ```
 
