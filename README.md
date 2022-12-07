@@ -1,1 +1,2 @@
-# https://Grazhina.github.io/rsschool-cv/cv
+# rsschool
+# https://Grazhina.github.io/rsschool-cv/
